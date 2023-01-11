@@ -19,3 +19,4 @@ int main()
     cout<<checkpal(0,s);
     return 0;
 }
+// giving correct ans. but not giving 1 as ans instead any no.
